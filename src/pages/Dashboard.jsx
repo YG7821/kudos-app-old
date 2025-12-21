@@ -43,7 +43,7 @@ function Dashboard() {
                 </h3>
               </div>
               <p className="text-gray-700 text-lg leading-relaxed italic">
-                "{kudos.message}"
+                &quot;{kudos.message}&quot;
               </p>
             </article>
           ))}
